@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮鄭註句讀
-#+DATE: 2015-09-23 09:37:48
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:09:14.788530
+#+PROPERTY: ID KR1d0038
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1d0038_WYG_013-1a>¶
 欽定四庫全書¶
 　儀禮鄭註句讀卷十三¶
@@ -488,4 +490,3 @@
 (生用耳疏引周禮八矢六者前重後輕恒矢庳/矢不前重後輕非鄭意也○輖音周&KR1819;音至)¶
 　記入壙用器弓矢之制¶
 　儀禮鄭註句讀卷十三¶
-

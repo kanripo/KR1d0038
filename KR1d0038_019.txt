@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮鄭註句讀
-#+DATE: 2015-09-23 09:37:48
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:09:14.895867
+#+PROPERTY: ID KR1d0038
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 儀禮石本誤字
 <pb:KR1d0038_WYG_019-1a>¶
 儀禮石本誤字(附/)¶
 　唐石經當時學者以為蕪累至於今日已為老成典¶
@@ -103,4 +105,3 @@
 　佐食設俎于豆東羊臑豕折羊脊脅祭肺一脱祭字¶
 <pb:KR1d0038_WYG_019-6b>¶
 　　(不賔尸賔/致主婦節)¶
-
